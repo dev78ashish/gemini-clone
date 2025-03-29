@@ -1,5 +1,3 @@
-// const apiKey = "AIzaSyDLj94WlLDcmpgH6tjZS_eWMHx-hx5CC_A";
-
 /*
  * Install the Generative AI SDK
  *
